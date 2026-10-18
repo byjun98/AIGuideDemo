@@ -1,0 +1,17 @@
+{
+  "name": "GuideDemo.Editor",
+  "rootNamespace": "AIGuide.Demo.EditorTools",
+  "references": [
+    "GuideCore",
+    "GuideDemo",
+    "UnityEngine.UI",
+    "Unity.InputSystem",
+    "Unity.TextMeshPro",
+    "GuideDemo.Sparkle"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "autoReferenced": true
+}

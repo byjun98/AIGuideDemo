@@ -1,0 +1,5 @@
+{
+  "name": "GuideDemo.PlayModeTests",
+  "references": ["UnityEngine.UI", "Unity.InputSystem", "GuideCore", "GuideDemo", "GuideDemo.Sparkle"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

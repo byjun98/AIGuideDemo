@@ -1,0 +1,12 @@
+{
+  "name": "GuideCore",
+  "rootNamespace": "AIGuide",
+  "references": [
+    "Unity.InputSystem",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}

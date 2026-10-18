@@ -1,0 +1,6 @@
+{
+  "name": "GuideDemo.EditorTests",
+  "references": ["GuideCore"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
